@@ -1,0 +1,2 @@
+include ':libvlc-android'
+rootProject.name='VLC Library'
